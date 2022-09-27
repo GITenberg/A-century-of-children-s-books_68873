@@ -1,11 +1,16 @@
 _repo: A-century-of-children-s-books_68873
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68873-h/images/cover.jpg
 creator:
   author:
     agent_name: Barry, Florence V.
     gutenberg_agent_id: '54988'
     url: http://www.gutenberg.org/2009/agents/54988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68873#A-century-of-children-s-books
 gutenberg_issued: '2022-08-30'
 identifiers:
   gutenberg: '68873'
